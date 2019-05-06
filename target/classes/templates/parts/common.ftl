@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <title>Sweater</title>
 </head>
-<body>
-<#nested >
-</body>
+    <body>
+        <#nested>
+    </body>
 </html>
 </#macro>
